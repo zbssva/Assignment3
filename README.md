@@ -11,6 +11,7 @@ Shared memory time: 7.33763 ms
 <img width="1009" height="717" alt="image" src="https://github.com/user-attachments/assets/5a329020-0cde-4084-9bb6-c572460d28d1" />
 
 Задание 2
+
 blockSize = 128 → 12.6327 ms
 blockSize = 256 → 0.00352 ms
 blockSize = 512 → 0.00256 ms
