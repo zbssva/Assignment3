@@ -3,7 +3,7 @@
 <img width="1009" height="691" alt="image" src="https://github.com/user-attachments/assets/483cf6b2-60a5-4513-9263-29e2b5eee568" />
 
 
-##Задание 1.
+## Задание 1.
 
 Global memory time: 39.5571 ms.
 
@@ -15,7 +15,7 @@ Shared memory time: 7.33763 ms.
 <img width="1009" height="717" alt="image" src="https://github.com/user-attachments/assets/5a329020-0cde-4084-9bb6-c572460d28d1" />
 
 
-##Задание 2.
+## Задание 2.
 
 blockSize = 128 → 12.6327 ms.
 
@@ -29,7 +29,7 @@ blockSize = 512 → 0.00256 ms.
 <img width="1009" height="729" alt="image" src="https://github.com/user-attachments/assets/91da7fc2-fd3d-4850-9fff-854e3c702de7" />
 
 
-##Задание 3.
+## Задание 3.
 
 Coalesced access time: 7.55133 ms.
 
@@ -40,7 +40,7 @@ Non-coalesced access time: 0.003488 ms.
 <img width="1009" height="635" alt="image" src="https://github.com/user-attachments/assets/6939e08d-a920-406f-80e3-b0f6bc31a9ab" />
 
 
-##Задание 4.
+## Задание 4.
 
 blockSize = 64 → 11.3882 ms.
 
